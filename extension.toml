@@ -1,7 +1,7 @@
 id = "jetbrains-themes"
-name = "JetBrains themes"
-version = "0.0.1"
+name = "JetBrains Themes"
+version = "0.0.2"
 schema_version = 1
 authors = ["Artem Evsevev <artem@qrsoft.ru>"]
-description = "Light and dark JetBrains themes for Zed"
+description = "Light and Dark JetBrains themes for Zed"
 repository = "https://github.com/artemevsevev/zed-theme-jetbrains"
