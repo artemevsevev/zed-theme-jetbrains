@@ -116,7 +116,7 @@
         "hidden": "#808080ff",
         "hidden.background": "#ff00ff",
         "hidden.border": "#ff00ff",
-        "hint": "#7a7a7aff",
+        "hint": "#d8d8d88c",
         "hint.background": "#ffffff",
         "hint.border": "#c9ccd6",
         "ignored": "#c3c3c3ff",
