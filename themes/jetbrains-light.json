@@ -40,7 +40,7 @@
         "icon.accent": "#ff00ff",
         "status_bar.background": "#f7f8faff",
         "title_bar.background": "#f7f8faff",
-        "title_bar.inactive_background": "#ff00ff",
+        "title_bar.inactive_background": "#ebecf0",
         "toolbar.background": "#ffffffff",
         "tab_bar.background": "#ffffffff",
         "tab.inactive_background": "#ffffffff",
