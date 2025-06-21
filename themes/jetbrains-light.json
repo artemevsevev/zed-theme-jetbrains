@@ -400,6 +400,21 @@
             "color": "#20999dff",
             "font_style": null,
             "font_weight": null
+          },
+          "namespace": {
+            "color": "#0033b3",
+            "font_style": null,
+            "font_weight": null
+          },
+          "selector": {
+            "color": "#0033b3",
+            "font_style": null,
+            "font_weight": null
+          },
+          "selector.pseudo": {
+            "color": "#0033b3",
+            "font_style": null,
+            "font_weight": null
           }
         }
       }
