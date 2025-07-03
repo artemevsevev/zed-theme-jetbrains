@@ -217,7 +217,7 @@
             "font_weight": null
           },
           "embedded": {
-            "color": "#293c40ff",
+            "color": "#6aab73",
             "font_style": null,
             "font_weight": null
           },
@@ -342,7 +342,7 @@
             "font_weight": null
           },
           "string.regex": {
-            "color": "#293c40ff",
+            "color": "#6aab73",
             "font_style": null,
             "font_weight": null
           },
