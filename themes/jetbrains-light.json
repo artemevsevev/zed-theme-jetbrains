@@ -97,7 +97,7 @@
         "terminal.ansi.white": "#929292",
         "terminal.ansi.bright_white": "#c9c9c9",
         "terminal.ansi.dim_white": "#c8c8c8",
-        "link_text.hover": "#ff00ff",
+        "link_text.hover": "#006DCC",
         "version_control.added": "#7fc784",
         "version_control.modified": "#88ADF7",
         "version_control.deleted": "#ff8266",
