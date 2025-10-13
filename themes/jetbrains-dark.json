@@ -34,7 +34,7 @@
         "text.disabled": "#b0b1b3",
         "text.accent": "#3474f0ff",
         "icon": "#ff00ff",
-        "icon.muted": "#ff00ff",
+        "icon.muted": "#b0b1b3",
         "icon.disabled": "#ff00ff",
         "icon.placeholder": "#ff00ff",
         "icon.accent": "#ff00ff",
@@ -307,7 +307,7 @@
             "font_weight": null
           },
           "punctuation": {
-            "color": "#bcbec4ff",
+            "color": "#cf8e6d",
             "font_style": null,
             "font_weight": null
           },
