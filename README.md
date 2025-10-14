@@ -2,6 +2,16 @@
 
 A color theme extension for the [Zed editor](https://zed.dev/) based on JetBrains IDE color schemes. This theme brings the familiar and comfortable look of JetBrains IDEs (IntelliJ IDEA, PyCharm, WebStorm, RustRover, etc.) to your Zed editor experience.
 
+## Theme Previews
+
+### JetBrains Dark
+
+![jetbrains-dark](./screenshots/dark.png)
+
+### JetBrains Light
+
+![jetbrains-light](./screenshots/light.png)
+
 ## Features
 
 - Includes both **light** and **dark** theme variants
@@ -19,16 +29,6 @@ Alternatively, you can install it from within the Zed editor:
 3. Type "extensions" and select **Extensions: Install Extensions**
 4. Search for "JetBrains"
 5. Click **Install** on the JetBrains Themes extension
-
-## Theme Previews
-
-### JetBrains Dark
-
-![jetbrains-dark](./screenshots/dark.png)
-
-### JetBrains Light
-
-![jetbrains-light](./screenshots/light.png)
 
 ## Activating the Theme
 
