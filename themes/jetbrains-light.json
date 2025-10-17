@@ -117,7 +117,7 @@
         "hidden.background": "#ff00ff",
         "hidden.border": "#ff00ff",
         "hint": "#7a7a7a",
-        "hint.background": "#ededed",
+        "hint.background": "#f5f5f5",
         "hint.border": "#c9ccd6",
         "ignored": "#808080",
         "ignored.background": "#ff00ff",
