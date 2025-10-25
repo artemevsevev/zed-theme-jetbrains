@@ -98,9 +98,13 @@
         "terminal.ansi.bright_white": "#ffffff",
         "terminal.ansi.dim_white": "#76777c",
         "link_text.hover": "#548AF7",
+
         "version_control.added": "#549159",
         "version_control.modified": "#375fad",
         "version_control.deleted": "#a75749",
+        "version_control.conflict_marker.ours": null,
+        "version_control.conflict_marker.theirs": null,
+
         "conflict": "#e0bb65",
         "conflict.background": "#ff00ff",
         "conflict.border": "#ff00ff",
