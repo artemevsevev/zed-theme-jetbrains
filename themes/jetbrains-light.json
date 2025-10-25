@@ -44,7 +44,7 @@
         "toolbar.background": "#ffffffff",
         "tab_bar.background": "#ffffffff",
         "tab.inactive_background": "#ffffffff",
-        "tab.active_background": "#e1eaff",
+        "tab.active_background": "#ffffffff",
         "search.match_background": "#fcd47eff",
         "panel.background": "#f7f8faff",
         "panel.focused_border": "#0055ff",
