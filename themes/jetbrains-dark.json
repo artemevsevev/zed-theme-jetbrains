@@ -143,6 +143,17 @@
         "warning": "#f2c55cff",
         "warning.background": "#665014ff",
         "warning.border": "#f2c55c",
+
+        "vim.mode.text": "#000000",
+        "vim.normal.background": "#90a959",
+        "vim.insert.background": "#f4bf75",
+        "vim.visual.background": "#6a9fb5",
+        "vim.replace.background": "#ac4242",
+        "vim.visual_line.background": "#6a9fb5",
+        "vim.visual_block.background": "#6a9fb5",
+        "vim.helix_select.background": "#6a9fb5",
+        "vim.helix_normal.background": "#90a959",
+
         "players": [
           {
             "cursor": "#ced0d6ff",
