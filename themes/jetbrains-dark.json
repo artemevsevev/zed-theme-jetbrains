@@ -102,6 +102,8 @@
         "version_control.added": "#549159",
         "version_control.modified": "#375fad",
         "version_control.deleted": "#a75749",
+        "version_control.word_added": "#294436ff",
+        "version_control.word_deleted": "#45302Bff",
         "version_control.conflict_marker.ours": null,
         "version_control.conflict_marker.theirs": null,
 
