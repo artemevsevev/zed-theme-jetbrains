@@ -421,7 +421,7 @@
           },
           "lifetime": {
             "color": "#20999dff",
-            "font_style": null,
+            "font_style": "italic",
             "font_weight": null
           },
           "namespace": {
