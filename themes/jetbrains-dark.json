@@ -255,17 +255,17 @@
             "font_weight": null
           },
           "function": {
-            "color": "#6aa2d7",
+            "color": "#56A8F5",
             "font_style": null,
             "font_weight": null
           },
           "function.definition": {
-            "color": "#6aa2d7",
+            "color": "#56A8F5",
             "font_style": null,
             "font_weight": null
           },
           "function.special": {
-            "color": "#d5a563",
+            "color": "#4EADE5",
             "font_style": null,
             "font_weight": null
           },
@@ -390,7 +390,7 @@
             "font_weight": null
           },
           "type": {
-            "color": "#a6bb77",
+            "color": "#86985DFF",
             "font_style": null,
             "font_weight": null
           },
@@ -410,7 +410,7 @@
             "font_weight": null
           },
           "variable.special": {
-            "color": "#e59eae",
+            "color": "#D98EB3FF",
             "font_style": null,
             "font_weight": null
           },
@@ -421,7 +421,7 @@
           },
           "lifetime": {
             "color": "#20999dff",
-            "font_style": null,
+            "font_style": "italic",
             "font_weight": null
           },
           "namespace": {
