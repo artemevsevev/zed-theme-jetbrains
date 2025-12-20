@@ -46,6 +46,7 @@
         "tab.inactive_background": "#f7f8faff",
         "tab.active_background": "#ffffffff",
         "search.match_background": "#fcd47eff",
+        "search.active_match_background": "#FFCDFFFF",
         "panel.background": "#f7f8faff",
         "panel.focused_border": "#0055ff",
         "pane.focused_border": "#3474f0",
