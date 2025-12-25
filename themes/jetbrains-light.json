@@ -33,7 +33,7 @@
         "text.placeholder": "#818594ff",
         "text.disabled": "#404040",
         "text.accent": "#3573f0ff",
-        "icon": "#ff00ff",
+        "icon": "#000000ff",
         "icon.muted": "#404040",
         "icon.disabled": "#808080ff",
         "icon.placeholder": "#ff00ff",
