@@ -151,7 +151,15 @@
         "warning.background": "#665014ff",
         "warning.border": "#f2c55c",
 
-        "vim.mode.text": "#000000",
+        "vim.normal.foreground": "#000000",
+        "vim.insert.foreground": "#000000",
+        "vim.visual.foreground": "#000000",
+        "vim.replace.foreground": "#000000",
+        "vim.visual_line.foreground": "#000000",
+        "vim.visual_block.foreground": "#000000",
+        "vim.helix_select.foreground": "#000000",
+        "vim.helix_normal.foreground": "#000000",
+
         "vim.normal.background": "#90a959",
         "vim.insert.background": "#f4bf75",
         "vim.visual.background": "#6a9fb5",
