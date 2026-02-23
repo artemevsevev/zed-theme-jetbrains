@@ -18,7 +18,12 @@
       },
       {
         "token_type": "namespace",
-        "token_modifiers": ["attribute"],
+        "token_modifiers": ["procMacro", "attribute"],
+        "style": ["string"]
+      },
+      {
+        "token_type": "enum",
+        "token_modifiers": ["procMacro", "attribute"],
         "style": ["string"]
       },
       {
