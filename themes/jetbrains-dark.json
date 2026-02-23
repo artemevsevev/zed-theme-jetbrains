@@ -422,6 +422,11 @@
             "font_style": "italic",
             "font_weight": null
           },
+          "type.parameter": {
+            "color": "#20999D",
+            "font_style": null,
+            "font_weight": null
+          },
           "variable": {
             "color": "#bcbec4ff",
             "font_style": null,
@@ -443,9 +448,19 @@
             "font_weight": null
           },
           "namespace": {
-            "color": "#d5b778",
+            "color": "#BCBEC4",
             "font_style": null,
             "font_weight": null
+          },
+          "namespace.crateRoot": {
+            "color": "#8D91DC",
+            "font_style": null,
+            "font_weight": null
+          },
+          "operator.controlFlow": {
+            "color": "#CC7832",
+            "font_style": null,
+            "font_weight": 700
           },
           "selector": {
             "color": "#d5b778",

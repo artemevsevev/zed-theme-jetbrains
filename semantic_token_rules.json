@@ -79,6 +79,10 @@
       {
         "token_type": "selfTypeKeyword",
         "style": ["keyword"]
+      },
+      {
+        "token_type": "formatSpecifier",
+        "style": ["keyword"]
       }
     ]
   }
