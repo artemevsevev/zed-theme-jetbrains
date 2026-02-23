@@ -412,6 +412,21 @@
             "font_style": null,
             "font_weight": null
           },
+          "type.enum": {
+            "color": "#A04908",
+            "font_style": "italic",
+            "font_weight": null
+          },
+          "type.enum.member": {
+            "color": "#0E7FC5",
+            "font_style": "italic",
+            "font_weight": null
+          },
+          "type.parameter": {
+            "color": "#007E8A",
+            "font_style": null,
+            "font_weight": null
+          },
           "variable": {
             "color": "#000000ff",
             "font_style": null,
@@ -428,14 +443,24 @@
             "font_weight": null
           },
           "lifetime": {
-            "color": "#20999dff",
+            "color": "#02906d",
             "font_style": "italic",
             "font_weight": null
           },
           "namespace": {
-            "color": "#0033b3",
+            "color": "#000000",
             "font_style": null,
             "font_weight": null
+          },
+          "namespace.crateRoot": {
+            "color": "#835DDA",
+            "font_style": null,
+            "font_weight": null
+          },
+          "operator.controlFlow": {
+            "color": "#1C5DFEFF",
+            "font_style": null,
+            "font_weight": 700
           },
           "selector": {
             "color": "#0033b3",
