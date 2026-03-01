@@ -49,3 +49,102 @@ You can configure Zed to automatically switch between light and dark themes base
 ```
 
 With this configuration, the theme will automatically match your operating system's appearance settings.
+
+## Semantic Tokens
+
+This theme supports [semantic tokens](https://zed.dev/docs/semantic-tokens) for enhanced syntax highlighting powered by language servers. Semantic tokens provide more accurate and context-aware coloring — for example, distinguishing mutable variables, trait methods, macros, and more.
+
+> **Note:** The rules below are primarily tailored for **Rust** (rust-analyzer). Other languages may benefit from semantic tokens as well, but these specific rules target Rust-specific token types and modifiers.
+
+To enable semantic tokens, add the following to your Zed settings (`Cmd+,` or `Ctrl+,`):
+
+```json
+"semantic_tokens": "combined",
+"global_lsp_settings": {
+  "semantic_token_rules": [
+    {
+      "token_type": "variable",
+      "token_modifiers": ["mutable"],
+      "underline": true
+    },
+    {
+      "token_type": "selfKeyword",
+      "token_modifiers": ["mutable"],
+      "underline": true
+    },
+    {
+      "token_type": "parameter",
+      "token_modifiers": ["mutable"],
+      "underline": true
+    },
+    {
+      "token_type": "namespace",
+      "token_modifiers": ["procMacro", "attribute"],
+      "style": ["string"]
+    },
+    {
+      "token_type": "enum",
+      "token_modifiers": ["procMacro", "attribute"],
+      "style": ["string"]
+    },
+    {
+      "token_type": "namespace",
+      "token_modifiers": ["crateRoot"],
+      "style": ["namespace.crateRoot"]
+    },
+    {
+      "token_type": "attributeBracket",
+      "style": ["attribute"]
+    },
+    {
+      "token_type": "operator",
+      "token_modifiers": ["attribute"],
+      "style": ["attribute"]
+    },
+    {
+      "token_type": "derive",
+      "token_modifiers": ["defaultLibrary"],
+      "style": ["type.interface"]
+    },
+    {
+      "token_type": "derive",
+      "token_modifiers": ["library"],
+      "style": ["function"]
+    },
+    {
+      "token_type": "operator",
+      "token_modifiers": ["controlFlow"],
+      "style": ["operator.controlFlow"]
+    },
+    {
+      "token_type": "macro",
+      "style": ["function.special"]
+    },
+    {
+      "token_type": "procMacro",
+      "style": ["function.special"]
+    },
+    {
+      "token_type": "builtinType",
+      "style": ["type.builtin"]
+    },
+    {
+      "token_type": "method",
+      "token_modifiers": ["trait"],
+      "font_style": "italic"
+    },
+    {
+      "token_type": "typeParameter",
+      "style": ["type.parameter"]
+    },
+    {
+      "token_type": "selfTypeKeyword",
+      "style": ["keyword"]
+    },
+    {
+      "token_type": "formatSpecifier",
+      "style": ["keyword"]
+    }
+  ]
+}
+```
