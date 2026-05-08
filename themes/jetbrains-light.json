@@ -255,7 +255,7 @@
           "emphasis.strong": {
             "color": "#080808",
             "font_style": null,
-            "font_weight": null
+            "font_weight": 700
           },
           "enum": {
             "color": null,
