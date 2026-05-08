@@ -394,7 +394,7 @@
           },
           "title": {
             "color": "#c77dbbff",
-            "font_style": null,
+            "font_style": "italic",
             "font_weight": null
           },
           "type": {
