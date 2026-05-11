@@ -1,22 +1,22 @@
 // Copyright 2025 Artem Evsevev. Use of this source code is governed by the Apache 2.0 license.
 {
   "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
-  "name": "JetBrains Dark",
+  "name": "JetBrains Islands Dark",
   "author": "Artem Evsevev <artem@qrsoft.ru>",
   "themes": [
     {
-      "name": "JetBrains Dark",
+      "name": "JetBrains Islands Dark",
       "appearance": "dark",
       "style": {
-        "border": "#393b41ff",
-        "border.variant": "#393b41ff",
+        "border": "#26282c",
+        "border.variant": "#26282c",
         "border.focused": "#467ff2",
         "border.selected": "#3474f0",
         "border.transparent": "#00000000",
         "border.disabled": null,
         "elevated_surface.background": "#26282b",
         "surface.background": "#26282b",
-        "background": "#26282b",
+        "background": "#191A1CFF",
         "element.background": "#393b41",
         "element.hover": "#3c3e41ff",
         "element.active": "#494a4dff",
@@ -38,16 +38,16 @@
         "icon.disabled": null,
         "icon.placeholder": null,
         "icon.accent": null,
-        "status_bar.background": "#26282b",
-        "title_bar.background": "#26282b",
-        "title_bar.inactive_background": "#3c3f41",
-        "toolbar.background": "#1e1f22",
-        "tab_bar.background": "#26282b",
-        "tab.inactive_background": "#26282b",
-        "tab.active_background": "#1e1f22",
+        "status_bar.background": "#26282c",
+        "title_bar.background": "#26282c",
+        "title_bar.inactive_background": "#26282c",
+        "toolbar.background": "#191A1CFF",
+        "tab_bar.background": "#191A1CFF",
+        "tab.inactive_background": "#191A1CFF",
+        "tab.active_background": "#191A1CFF",
         "search.match_background": "#114957",
         "search.active_match_background": "#2D543F",
-        "panel.background": "#26282b",
+        "panel.background": "#191A1CFF",
         "panel.focused_border": "#3474f0",
         "pane.focused_border": "#3474f0",
         "scrollbar.thumb.background": "#ffffff26",
@@ -57,10 +57,10 @@
         "scrollbar.track.background": "#00000000",
         "scrollbar.track.border": "#00000000",
         "editor.foreground": "#bcbec4ff",
-        "editor.background": "#1e1f22",
-        "editor.gutter.background": "#1e1f22",
+        "editor.background": "#191A1CFF",
+        "editor.gutter.background": "#191A1CFF",
         "editor.subheader.background": "#26282b",
-        "editor.active_line.background": "#26282e",
+        "editor.active_line.background": "#1F2024",
         "editor.highlighted_line.background": "#2d543f",
         "editor.line_number": "#4b5059",
         "editor.active_line_number": "#a1a3ab",
@@ -70,7 +70,7 @@
         "editor.active_wrap_guide": null,
         "editor.document_highlight.read_background": "#373b39",
         "editor.document_highlight.write_background": "#402f33",
-        "terminal.background": "#1e1f22",
+        "terminal.background": "#191A1CFF",
         "terminal.foreground": "#ced0d6",
         "terminal.bright_foreground": "#ffffff",
         "terminal.dim_foreground": "#76777c",
@@ -263,17 +263,17 @@
             "font_weight": null
           },
           "function": {
-            "color": "#6AA2D7",
+            "color": "#56A8F5",
             "font_style": null,
             "font_weight": null
           },
           "function.definition": {
-            "color": "#6AA2D7",
+            "color": "#56A8F5",
             "font_style": null,
             "font_weight": null
           },
           "function.special": {
-            "color": "#D5A563",
+            "color": "#4EADE5",
             "font_style": null,
             "font_weight": null
           },
@@ -398,7 +398,7 @@
             "font_weight": null
           },
           "type": {
-            "color": "#A6BB77",
+            "color": "#86985DFF",
             "font_style": null,
             "font_weight": null
           },
@@ -413,17 +413,17 @@
             "font_weight": null
           },
           "type.enum": {
-            "color": "#A6BB77",
+            "color": "#86985DFF",
             "font_style": "italic",
             "font_weight": null
           },
           "type.enum.member": {
-            "color": "#8CC8D4",
+            "color": "#6DA1AB",
             "font_style": "italic",
             "font_weight": null
           },
           "type.parameter": {
-            "color": "#3CACAC",
+            "color": "#20999D",
             "font_style": null,
             "font_weight": null
           },
@@ -433,7 +433,7 @@
             "font_weight": null
           },
           "variable.special": {
-            "color": "#E59EAE",
+            "color": "#D98EB3FF",
             "font_style": null,
             "font_weight": null
           },
