@@ -8,13 +8,21 @@ A color theme extension for the [Zed editor](https://zed.dev/) based on JetBrain
 
 ![jetbrains-dark](./screenshots/dark.png)
 
+### JetBrains Islands Dark
+
+![jetbrains-dark](./screenshots/islands-dark.png)
+
 ### JetBrains Light
 
 ![jetbrains-light](./screenshots/light.png)
 
+### JetBrains Islands Light
+
+![jetbrains-light](./screenshots/islands-light.png)
+
 ## Features
 
-- Includes both **light** and **dark** theme variants
+- Includes **4 theme variants**: JetBrains Dark, JetBrains Light, JetBrains Islands Dark, JetBrains Islands Light
 - Carefully crafted color palette based on JetBrains IDE themes
 - Optimized for code readability and extended coding sessions
 - Syntax highlighting that follows JetBrains color conventions
@@ -34,7 +42,11 @@ Alternatively, you can install it from within the Zed editor:
 
 After installation, you can activate the theme:
 1. Press `Cmd+K` then `Cmd+T` (macOS) or `Ctrl+K` then `Ctrl+T` (Linux/Windows)
-2. Select **JetBrains Dark** or **JetBrains Light** from the theme selector
+2. Select one of the available variants from the theme selector:
+   - **JetBrains Dark** — classic dark theme
+   - **JetBrains Light** — classic light theme
+   - **JetBrains Islands Dark** — dark theme with a softer, tinted palette
+   - **JetBrains Islands Light** — light theme with a softer, tinted palette
 
 ### Automatic Theme Switching
 
@@ -44,7 +56,7 @@ You can configure Zed to automatically switch between light and dark themes base
 "theme": {
   "mode": "system",
   "light": "JetBrains Light",
-  "dark": "JetBrains Dark"
+  "dark": "JetBrains Islands Dark"
 }
 ```
 
