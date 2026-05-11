@@ -263,17 +263,17 @@
             "font_weight": null
           },
           "function": {
-            "color": "#56A8F5",
+            "color": "#6AA2D7",
             "font_style": null,
             "font_weight": null
           },
           "function.definition": {
-            "color": "#56A8F5",
+            "color": "#6AA2D7",
             "font_style": null,
             "font_weight": null
           },
           "function.special": {
-            "color": "#4EADE5",
+            "color": "#D5A563",
             "font_style": null,
             "font_weight": null
           },
@@ -398,7 +398,7 @@
             "font_weight": null
           },
           "type": {
-            "color": "#86985DFF",
+            "color": "#A6BB77",
             "font_style": null,
             "font_weight": null
           },
@@ -413,17 +413,17 @@
             "font_weight": null
           },
           "type.enum": {
-            "color": "#86985DFF",
+            "color": "#A6BB77",
             "font_style": "italic",
             "font_weight": null
           },
           "type.enum.member": {
-            "color": "#6DA1AB",
+            "color": "#8CC8D4",
             "font_style": "italic",
             "font_weight": null
           },
           "type.parameter": {
-            "color": "#20999D",
+            "color": "#3CACAC",
             "font_style": null,
             "font_weight": null
           },
@@ -433,7 +433,7 @@
             "font_weight": null
           },
           "variable.special": {
-            "color": "#D98EB3FF",
+            "color": "#E59EAE",
             "font_style": null,
             "font_weight": null
           },
