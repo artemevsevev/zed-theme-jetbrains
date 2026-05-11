@@ -10,7 +10,7 @@ A color theme extension for the [Zed editor](https://zed.dev/) based on JetBrain
 
 ### JetBrains Islands Dark
 
-![jetbrains-dark](./screenshots/islands-dark.png)
+![jetbrains-islands-dark](./screenshots/islands-dark.png)
 
 ### JetBrains Light
 
@@ -18,7 +18,7 @@ A color theme extension for the [Zed editor](https://zed.dev/) based on JetBrain
 
 ### JetBrains Islands Light
 
-![jetbrains-light](./screenshots/islands-light.png)
+![jetbrains-islands-light](./screenshots/islands-light.png)
 
 ## Features
 
