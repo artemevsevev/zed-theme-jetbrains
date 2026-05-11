@@ -16,7 +16,7 @@
         "border.disabled": null,
         "elevated_surface.background": "#26282b",
         "surface.background": "#26282b",
-        "background": "#26282b",
+        "background": "#191A1CFF",
         "element.background": "#393b41",
         "element.hover": "#3c3e41ff",
         "element.active": "#494a4dff",
