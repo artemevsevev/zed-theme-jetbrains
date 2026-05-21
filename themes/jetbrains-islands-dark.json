@@ -169,6 +169,13 @@
         "vim.helix_select.background": "#6a9fb5",
         "vim.helix_normal.background": "#90a959",
 
+        "editor.diff_hunk.added.background": "#294436",
+        "editor.diff_hunk.added.hollow_background": "#1f2b26",
+        "editor.diff_hunk.added.hollow_border": "#1f2b26",
+        "editor.diff_hunk.deleted.background": "#45302b",
+        "editor.diff_hunk.deleted.hollow_background": "#2b2322",
+        "editor.diff_hunk.deleted.hollow_border": "#2b2322",
+
         "players": [
           {
             "cursor": "#ced0d6ff",
