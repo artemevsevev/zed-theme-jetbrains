@@ -218,6 +218,17 @@
             "selection": "#583d7a"
           }
         ],
+
+        "accents": [
+          "#5fad65",
+          "#db5c5c",
+          "#a571e6",
+          "#e08855",
+          "#24a394",
+          "#d6ae58",
+          "#a571e6"
+        ],
+
         "syntax": {
           "attribute": {
             "color": "#b3ae60ff",
