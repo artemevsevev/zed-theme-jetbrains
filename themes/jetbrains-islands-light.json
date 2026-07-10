@@ -169,12 +169,12 @@
         "vim.helix_select.background": "#6a9fb5",
         "vim.helix_normal.background": "#90a959",
 
-        "editor.diff_hunk.added.background": "#bee6be",
-        "editor.diff_hunk.added.hollow_background": "#e5f5e5",
-        "editor.diff_hunk.added.hollow_border": "#e5f5e5",
-        "editor.diff_hunk.deleted.background": "#ffd5cc",
-        "editor.diff_hunk.deleted.hollow_background": "#ffeeeb",
-        "editor.diff_hunk.deleted.hollow_border": "#ffeeeb",
+        "editor.diff_hunk.added.background": "#e5f5e5ff",
+        "editor.diff_hunk.added.hollow_background": "#e5f5e5aa",
+        "editor.diff_hunk.added.hollow_border": "#bee6beff",
+        "editor.diff_hunk.deleted.background": "#ffeeebff",
+        "editor.diff_hunk.deleted.hollow_background": "#ffeeebff",
+        "editor.diff_hunk.deleted.hollow_border": "#ffd5ccff",
 
         "players": [
           {
