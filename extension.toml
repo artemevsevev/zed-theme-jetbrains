@@ -1,6 +1,6 @@
 id = "jetbrains-themes"
 name = "JetBrains Themes"
-version = "1.1.0"
+version = "1.2.0"
 schema_version = 1
 authors = ["Artem Evsevev <artem@qrsoft.ru>"]
 description = "Light, Dark, Islands Light and Islands Dark JetBrains themes"
