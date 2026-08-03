@@ -4,21 +4,21 @@ A color theme extension for the [Zed editor](https://zed.dev/) based on JetBrain
 
 ## Theme Previews
 
-### JetBrains Dark
-
-![jetbrains-dark](./screenshots/dark.png)
-
 ### JetBrains Islands Dark
 
 ![jetbrains-islands-dark](./screenshots/islands-dark.png)
 
-### JetBrains Light
+### JetBrains Dark
 
-![jetbrains-light](./screenshots/light.png)
+![jetbrains-dark](./screenshots/dark.png)
 
 ### JetBrains Islands Light
 
 ![jetbrains-islands-light](./screenshots/islands-light.png)
+
+### JetBrains Light
+
+![jetbrains-light](./screenshots/light.png)
 
 ## Features
 
