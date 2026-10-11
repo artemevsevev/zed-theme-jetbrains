@@ -70,6 +70,7 @@
         "editor.active_wrap_guide": null,
         "editor.document_highlight.read_background": "#373b39",
         "editor.document_highlight.write_background": "#402f33",
+        "editor.code_lens.foreground": "#727782",
         "terminal.background": "#1E1F22",
         "terminal.foreground": "#BCBEC4",
         "terminal.bright_foreground": "#BCBEC4",
